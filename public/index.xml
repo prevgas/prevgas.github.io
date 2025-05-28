@@ -2,16 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Abstract struct</title>
-        <link>https://example.org/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Abstract struct</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 28 May 2025 19:50:44 +0900</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 May 2025 21:22:28 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>전자회로</title>
+        <link>http://localhost:1313/posts/%EC%A0%84%EC%9E%90%ED%9A%8C%EB%A1%9C/</link>
+        <pubDate>Wed, 28 May 2025 21:22:28 +0900</pubDate>
+        
+        <guid>http://localhost:1313/posts/%EC%A0%84%EC%9E%90%ED%9A%8C%EB%A1%9C/</guid>
+        <description>&lt;p&gt;200배증폭기 스피커 영상&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/VPmgB0GCFAY&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>Test</title>
-        <link>https://example.org/posts/test/</link>
+        <link>http://localhost:1313/posts/test/</link>
         <pubDate>Wed, 28 May 2025 19:50:44 +0900</pubDate>
         
-        <guid>https://example.org/posts/test/</guid>
+        <guid>http://localhost:1313/posts/test/</guid>
         <description>&lt;p&gt;이것은 테스트 글입니다. Hugo 블로그에 첫 글을 작성해 봅니다.&lt;/p&gt;
 </description>
         </item>
