@@ -1,8 +1,22 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Abstract struct'
+theme ="hugo-theme-stack"
 [[module.imports]]
 path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
+[params]
+  mainSections = ["posts"]
+
+  [params.sidebar]
+    emoji = ""
+    subtitle = "Welcome to my blog"
+
+    [params.sidebar.avatar]
+    enabled = true
+    local = true
+    src = "images/profile.jpg"
+
+
