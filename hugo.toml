@@ -20,3 +20,13 @@ path = "github.com/CaiJimmy/hugo-theme-stack/v3"
     src = "images/profile.jpg"
 
 
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+    identifier = "home"
+    [menu.main.params]
+        icon = "home"
+        newTab = false
+
