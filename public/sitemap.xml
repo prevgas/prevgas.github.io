@@ -11,10 +11,14 @@
     <loc>http://localhost:1313/posts/%EC%A0%84%EC%9E%90%ED%9A%8C%EB%A1%9C/</loc>
     <lastmod>2025-05-28T21:22:28+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>http://localhost:1313/posts/test2/</loc>
     <lastmod>2025-05-28T19:50:44+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/class/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/entropy/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
