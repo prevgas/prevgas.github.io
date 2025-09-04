@@ -1,0 +1,37 @@
+
+  mainSections = ["post"]
+  
+  [sidebar]
+    emoji = ""
+    subtitle = "Welcome to my blog"
+
+    [sidebar.avatar]
+    enabled = true
+    local = true
+    src = "images/profile.jpg"
+
+
+
+[[widgets.page]]
+type = "search"
+
+[[widgets.page]]
+type = "archives"
+
+[widgets.page.params]
+limit = 5
+
+[[widgets.page]]
+type = "categories"
+
+[widgets.page.params]
+limit = 10
+
+[[widgets.page]]
+type = "tag-cloud"
+
+[widgets.page.params]
+limit = 10
+
+[[widgets.page]]
+type = "toc"
