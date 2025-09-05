@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Environment on Abstract struct</title>
+        <link>http://localhost:1313/categories/environment/</link>
+        <description>Recent content in Environment on Abstract struct</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 04 Sep 2025 13:56:39 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/environment/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>도커</title>
+        <link>http://localhost:1313/post/docker/</link>
+        <pubDate>Thu, 04 Sep 2025 13:56:39 +0900</pubDate>
+        
+        <guid>http://localhost:1313/post/docker/</guid>
+        <description>&lt;img src="http://localhost:1313/post/docker/image.png" alt="Featured image of post 도커" /&gt;&lt;p&gt;내가 작성한 코드가 타인pc에서도 그대로 작동할까? 개발환경이 다르기에 코드가 원활하게 작동이 되지 않을 수 있다. 이를 도커가 해결는데 도커에 주요한 개념 두가지가 존재한다.&lt;br&gt;
+&lt;strong&gt;컨테이너와 이미지&lt;/strong&gt;&lt;br&gt;
+컨테이너는 가상환경이고 이미지는 가상환경에대한 정보를 가지고 있는 파일이다.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

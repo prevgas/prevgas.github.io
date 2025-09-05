@@ -1,7 +1,6 @@
 ---
 title: About
 description: New blog
-date: '2025-09-04'
 aliases:
   - about-us
   - about-hugo

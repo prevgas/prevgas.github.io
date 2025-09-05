@@ -1,6 +1,7 @@
 
   mainSections = ["post"]
   
+
   [sidebar]
     emoji = ""
     subtitle = "Welcome to my blog"
@@ -12,26 +13,24 @@
 
 
 
+
 [[widgets.homepage]]
 type = "search"
 
 [[widgets.homepage]]
 type = "archives"
-
 [widgets.homepage.params]
-limit = 5
+  limit = 5
 
 [[widgets.homepage]]
 type = "categories"
-
 [widgets.homepage.params]
-limit = 10
+  limit = 10
 
 [[widgets.homepage]]
 type = "tag-cloud"
-
 [widgets.homepage.params]
-limit = 10
+  limit = 10
 
 [[widgets.homepage]]
 type = "toc"
